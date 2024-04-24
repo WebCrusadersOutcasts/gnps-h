@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from 'react';
-// import Plotly from 'plotly.js';
+import Plotly from 'plotly.js';
 
 const CrimeMap: React.FC = () => {
     const [crimeData, setCrimeData] = useState<any[]>([]);
