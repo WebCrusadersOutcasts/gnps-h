@@ -15,6 +15,7 @@
     "@mui/material": "^5.15.15",
     "@types/chart.js": "^2.9.41",
     "axios": "^1.6.8",
+    "buffer": "^6.0.3",
     "chart.js": "^4.4.2",
     "jquery": "^3.7.1",
     "next": "14.1.4",
